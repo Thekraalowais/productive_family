@@ -34,15 +34,3 @@ link for the app on Herokuapp
 
 # More Features to add later
 * Add notification system 
-
-
-## Credits
-* special thanks to Jack Jeffres,Moath Althawad and Kane
-* Devise for User Model in Rails
-* Cloudinary for files mangments
-* Herokuapp for hosting the app online
-* Materialize
-* Ratyrate gem for rating system 
-* Agile-web-development with rails 5 Book by Sam Ruby ,David Bryant with Dave Thomas
-* and thank you to our classmate Njod Alnasser
-
